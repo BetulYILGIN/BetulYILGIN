@@ -4,9 +4,9 @@ Welcome to my GitHub profile! 👩‍💻 I'm Betül Yılgın, a passionate soft
 
 ---
 ## 🔧 Technologies & Tools
-*Languages: C#, Python, JavaScript, HTML, CSS✨
-*Frameworks & Libraries: .NET, ASP.NET, TensorFlow, Keras, React
-*Tools: Git, Docker, Visual Studio, Jupyter Notebook, VS Code
-*Databases: SQL, MongoDB
-*Other: AI, Machine Learning, Data Science, Robotics, Cyber Security 🚀 
+* Languages: C#, Python, JavaScript, HTML, CSS✨
+* Frameworks & Libraries: .NET, ASP.NET, TensorFlow, Keras, React
+* Tools: Git, Docker, Visual Studio, Jupyter Notebook, VS Code
+* Databases: SQL, MongoDB
+* Other: AI, Machine Learning, Data Science, Robotics, Cyber Security 🚀 
 
